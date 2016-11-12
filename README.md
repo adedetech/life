@@ -1,0 +1,2 @@
+# life
+shot code
